@@ -1,0 +1,37 @@
+[
+  {
+    "hospitalNumber": 6533794,
+    "firstName": "Nick",
+    "surname": "Smith",
+    "gender": "Male",
+    "dateOfBirth": "21/07/1965"
+  },
+  {
+    "hospitalNumber": 2571803,
+    "firstName": "Roy",
+    "surname": "Patel",
+    "gender": "Male",
+    "dateOfBirth": "11/02/1972"
+  },
+  {
+    "hospitalNumber": 8455435,
+    "firstName": "Nia",
+    "surname": "Odumbe",
+    "gender": "Female",
+    "dateOfBirth": "27/11/1986"
+  },
+  {
+    "hospitalNumber": 2494668,
+    "firstName": "Jennifer",
+    "surname": "Richardson",
+    "gender": "Female",
+    "dateOfBirth": "05/06/1955"
+  },
+  {
+    "hospitalNumber": 1245763,
+    "firstName": "Ahmed",
+    "surname": "Khan",
+    "gender": "Male",
+    "dateOfBirth": "08/04/1996"
+  }
+]
